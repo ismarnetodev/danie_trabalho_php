@@ -1,4 +1,4 @@
-<form action="?pg=cadastra_servicos" method="post">
+<form action="?pg=cadastra_clientes_servicos" method="post">
     <label>Nome do serviço:</label>
     <input type="text" name="servico">
     <label>Categoria:</label>

@@ -20,7 +20,7 @@
             echo "Categoria: $dados[categoria] | ";
             echo "Preço: R$ $dados[preco] ";
             echo " | <a href='?pg=form_servicos_alterar&id=$dados[id]'>Alterar</a>";
-            echo " | <a href='?pg=delete_servico&id=$dados[id]'>Excluir</a>";
+            echo " | <a href='?pg=delete_servicos&id=$dados[id]'>Excluir</a>";
             echo "<br>============= <br>";
         }
     } else {
